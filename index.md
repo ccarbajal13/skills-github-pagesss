@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+CC's Blog: Welcome to my blog! :)
 ---
